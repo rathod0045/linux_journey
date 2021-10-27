@@ -1,5 +1,4 @@
-#Permissions
----
+# Permissions
 
 ### 1. File Permissions
 
