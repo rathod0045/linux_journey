@@ -1,8 +1,8 @@
 Advanced Text-Fu
 
 
-#Advanced Text-Fu
----
+# Advanced Text-Fu
+
 ### 1. regex (Regular Expressions)
 * We'll go through a couple of the most common regular expressions, these are almost universal with any programming language.
 * example we are gonna use
