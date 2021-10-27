@@ -1,6 +1,3 @@
-Text-Fu
-
-
 # Text-Fu
 
 ### 1. stdout ( Standard Out )
