@@ -1,6 +1,3 @@
-Command line
-
-
 # Command Line
 
 ### 1) pwd ( Print Working Directory )
