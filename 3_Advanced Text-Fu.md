@@ -1,6 +1,3 @@
-Advanced Text-Fu
-
-
 # Advanced Text-Fu
 
 ### 1. regex (Regular Expressions)
