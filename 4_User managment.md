@@ -1,5 +1,4 @@
 # User Management
----
 
 ### 1. Users and Groups
 * The system uses user ids (UID) to manage users, usernames are the friendly way to associate users with identification, but the system identifies users by their UID. 
