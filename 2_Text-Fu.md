@@ -1,8 +1,8 @@
 Text-Fu
 
 
-#Text-Fu
----
+# Text-Fu
+
 ### 1. stdout ( Standard Out )
 > $ echo Hello World > peanuts.txt
 
